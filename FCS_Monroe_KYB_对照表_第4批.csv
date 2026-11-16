@@ -1,0 +1,31 @@
+﻿FCS号码,位置/配置(RockAuto),FCS官网车型,Monroe对应号,Monroe官网车型,Monroe互换表是否列出该FCS号,KYB对应号,KYB官网车型,备注
+1335877L,前左；Titanium 或 S/SE 双离合（2013年2月前）,Ford Focus 2012-13,172523,Focus 2012-13 前左,是,无,,
+1335877R,前右；Titanium 或 S/SE 双离合（2013年2月前）,Ford Focus 2012-13,172522,Focus 2012-13 前右,是,无,,
+1335892L,前左；ST 18寸运动悬挂,Ford Focus 2014-15,172908（存疑）,Focus 2013-18 前左,是,无,,注意：FCS 是 ST 运动悬挂款；RockAuto 把 172908 标为 S/SE/Titanium 款，不含 ST。Monroe 官网不分配置，这条互换存疑
+1335892R,前右；ST 18寸运动悬挂,Ford Focus 2014-15,无,,否,无,,Monroe 互换表只列了左侧
+1335893L,前左；S/SE 16-17寸 Touring 悬挂 或 Titanium 18寸,Ford Focus 2014-18,172908,Focus 2013-18 前左,是,无,,
+1335893R,前右；S/SE 16-17寸 Touring 悬挂 或 Titanium 18寸,Ford Focus 2014-18,172907,Focus 2013-18 前右,是,无,,
+1335894L,前左；18寸轮（2.0T）,Ford Focus 2013,无,,否,无,,
+1335894R,前右；18寸轮（2.0T）,Ford Focus 2013,无,,否,无,,
+1355017L,前左；RWD,Toyota Tacoma 2016-23,173076,Tacoma 2016-23 前 RWD（左右通用）,是,无,,Monroe 一个号左右通用
+1355017R,前右；RWD,Toyota Tacoma 2016-23,173076,Tacoma 2016-23 前 RWD（左右通用）,是,无,,Monroe 一个号左右通用
+1355027L,前左；TRD Off-Road 单筒,Toyota Tacoma 2016-20,无,,否,无,,候选未确认：RockAuto 把 Monroe 371371 的 4WD 范围列含 TRD Off-Road；KYB SRM4802（MonoMax 单筒）官网含 Tacoma TRD Off-Road 4WD。FCS 该号的驱动形式未查到
+1355027R,前右；TRD Off-Road 单筒,Toyota Tacoma 2016-20,无,,否,无,,候选未确认：Monroe 371371；KYB SRM4801（MonoMax 单筒）。FCS 该号的驱动形式未查到
+2335543L,前左；V6,Ford Fusion 2006-09；Mercury Milan 2006-09,172261,Fusion 3.0L 2006-09；Milan 3.0L 2006-09；MKZ 3.5L 2007-09；Zephyr 2006 前（左右通用）,否,无,,Monroe 一个号左右通用；KYB SR4272/SR4271 是 2.3L 款，不对应
+2335543R,前右；V6,Ford Fusion 2006-09；Mercury Milan 2006-09,172261,Fusion 3.0L 2006-09；Milan 3.0L 2006-09；MKZ 3.5L 2007-09；Zephyr 2006 前（左右通用）,否,无,,Monroe 一个号左右通用；KYB SR4272/SR4271 是 2.3L 款，不对应
+2335877L,前左；手动挡 S/SE,Ford Focus 2013,172523 / 172908,172523：Focus 2012-13 前左；172908：Focus 2013-18 前左,是,无,,互换表同时列了两个号；RockAuto 列的是 272523，Monroe 现行目录查不到
+2335877R,前右；手动挡 S/SE,Ford Focus 2013,172522 / 172907,172522：Focus 2012-13 前右；172907：Focus 2013-18 前右,是,无,,互换表同时列了两个号；272522 在 Monroe 现行目录查不到
+2335893L,前左；配置未查到,Ford Focus 2016-18,172908,Focus 2013-18 前左,是,无,,和 1335893L 的配置区别未查到
+2335893R,前右；配置未查到,Ford Focus 2016-18,172907,Focus 2013-18 前右,是,无,,和 1335893R 的配置区别未查到
+2345793L,后左；LX/Sport 四缸 或 V6,Honda Accord 2013-15,172984（2.4L）/ 272984（V6）,172984：Accord 2.4L 2013-15、2.0L 2014-15、2016-17 后；272984：Accord 3.5L V6 2013-15 后（均左右通用）,否,SR4557,Accord LX、Sport、EX-L V6、Touring V6 2013-15 后（左右通用）,Monroe 按发动机拆成两个号；Monroe 和 KYB 都左右通用
+2345793R,后右；LX/Sport 四缸 或 V6,Honda Accord 2013-15,172984（2.4L）/ 272984（V6）,172984：Accord 2.4L 2013-15、2.0L 2014-15、2016-17 后；272984：Accord 3.5L V6 2013-15 后（均左右通用）,否,SR4557,Accord LX、Sport、EX-L V6、Touring V6 2013-15 后（左右通用）,Monroe 按发动机拆成两个号；Monroe 和 KYB 都左右通用
+2355017L,前左；4WD,Toyota Tacoma 2016-23,371371,Tacoma 2016-23 前 4WD（左右通用）,否,SR4802,Tacoma 4WD 2016-23 前左,Monroe 一个号左右通用
+2355017R,前右；4WD,Toyota Tacoma 2016-23,371371,Tacoma 2016-23 前 4WD（左右通用）,否,SR4801,Tacoma 4WD 2016-23 前右,Monroe 一个号左右通用
+3345685L,后左；EX/EX-L/LX-S/Touring,Honda Accord 2013-17,172984,Accord 2.4L 2013-15、2.0L 2014-15、2016-17 后（左右通用）,否,SR4602,Accord EX/EX-L/LX-S 四缸 2013-15；Coupe EX/EX-L/LX-S 2016-17；Sedan 2016-17 后（左右通用）,Monroe 和 KYB 都左右通用
+3345685R,后右；EX/EX-L/LX-S/Touring,Honda Accord 2013-17,172984,Accord 2.4L 2013-15、2.0L 2014-15、2016-17 后（左右通用）,否,SR4602,Accord EX/EX-L/LX-S 四缸 2013-15；Coupe EX/EX-L/LX-S 2016-17；Sedan 2016-17 后（左右通用）,Monroe 和 KYB 都左右通用
+4335543L,前左；AWD,Lincoln MKZ 2007-09,172261,MKZ 3.5L 2007-09；Fusion/Milan 3.0L 2006-09；Zephyr 2006 前（左右通用）,否,无,,Monroe 不分驱动形式
+4335543R,前右；AWD,Lincoln MKZ 2007-09,172261,MKZ 3.5L 2007-09；Fusion/Milan 3.0L 2006-09；Zephyr 2006 前（左右通用）,否,无,,Monroe 不分驱动形式
+4345685L,后左；Hybrid,Honda Accord 2014-15、2017,172984,Accord 2.0L 2014-15、2016-17 后（左右通用）,否,无,,Monroe 一个号左右通用
+4345685R,后右；Hybrid,Honda Accord 2014-15、2017,172984,Accord 2.0L 2014-15、2016-17 后（左右通用）,否,无,,Monroe 一个号左右通用
+5335543L,前左；FWD,Lincoln MKZ 2007-09,172261,MKZ 3.5L 2007-09；Fusion/Milan 3.0L 2006-09；Zephyr 2006 前（左右通用）,否,无,,Monroe 不分驱动形式
+5335543R,前右；FWD,Lincoln MKZ 2007-09,172261,MKZ 3.5L 2007-09；Fusion/Milan 3.0L 2006-09；Zephyr 2006 前（左右通用）,否,无,,Monroe 不分驱动形式

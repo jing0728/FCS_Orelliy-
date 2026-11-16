@@ -1,0 +1,96 @@
+﻿FCS号码,位置/配置(RockAuto),FCS官网车型,Monroe对应号,Monroe官网车型,Monroe互换表是否列出该FCS号,KYB对应号,KYB官网车型,备注
+1331089,前,Toyota Echo 2000-05,171575 / 271575,Echo 2000-05 前,否,SR4125,Echo 2000-05 前,
+1331727,前；非警用/出租车,Chevrolet Impala 2006-13；Impala Limited 2014-16,172903,Impala 2006-13；Impala Limited 2014-16 前,是,SR4089,Impala 2006-13；Impala Limited 2014-16 前；另含 LaCrosse/Allure 2005-09、Monte Carlo 2004-07,复核后补充 KYB
+1332354,前,VW Golf 1993-98；Jetta 1996-98,271933,Golf 1993-98；Jetta 1996-98 前,是,无,,
+1333924,前；轿车/旅行车 4Matic 标准悬挂,Mercedes E250 2014-16；E300 2013、2015；E350 2010-16；E400 2015-18；E550 2010-14,无,,否,无,,
+1335556,前,Hyundai Sonata 2000-04；Kia Optima 2001-06,171417,Sonata 2000-05；Optima 2001-06 前,否,无,,
+1336328,后,Ford Expedition 2003-06；Lincoln Navigator 2003-06,171370,Expedition/Navigator 2003-06 后,否,SR4158,Expedition 2003-06 后,KYB 官网只列 Expedition
+1337007,前；不含 ADS 悬挂,Mercedes GL320 2007-09；GL350 2010-12；GL450 2007-12；GL550 2008-12；ML320 2007-09；ML350 2006-11；ML450 2010-11；ML500 2006-07；ML550 2008-11,173353,GL320/GL350/GL450/GL550/ML320/ML350/ML450/ML500/ML550 同年份段；另含 ML63 AMG 2007-11,否,无,,
+1345497,前；4WD,Nissan Titan 2004-15、2017-24,171358,Titan 2004-2024 前 4WD,是,SR4230,Titan 4WD 2004-15 前,KYB 不含 2017 以后
+1345682,前；RWD,Nissan Frontier 2005-21,271102 / 253044,Frontier 2005-21 前 RWD；Suzuki Equator 2009-12,是,SR4201,Frontier 2005-21 前,
+1345734,后；不含自调平悬挂,Dodge Journey 2009-10,172511,Journey 2009-10 后,否,SR4542,Journey 2009-10 后,
+1355181,前；不含空气悬挂,Mercedes GLE350/GLE450/GLE580 2020-24；GLE450e 2024,无,,否,无,,
+2335850,前；RWD 带 Performance 悬挂,Chrysler 300 2005-10,272408 / 472408,300 2005-10 前,是,无,,KYB SR4087/SR4088 是不带 Performance 悬挂的款，不对应
+1331628L,前左；FWD 7座,Toyota Sienna 2004-06,172237,Sienna 2004-06 前左 FWD,是,SR4178,Sienna FWD 2004-06 前左,
+1331628R,前右；FWD 7座,Toyota Sienna 2004-06,172236,Sienna 2004-06 前右 FWD,否,SR4177,Sienna FWD 2004-06 前右,
+1331674L,前左,Mazda CX-9 2007-15,172444（2007-10）/ 182921（2011-15）,CX-9 前左,是,SR4538,CX-9 2007-15 前左,Monroe 按年份拆成两个号
+1331674R,前右,Mazda CX-9 2007-15,172443（2007-10）/ 182920（2011-15）,CX-9 前右,是,SR4537,CX-9 2007-15 前右,Monroe 按年份拆成两个号
+1331688L,前左,Ford Edge 2007-08,172889,Edge/MKX 2007-10 前左 FWD,否,无,,Monroe 标 FWD
+1331688R,前右,Ford Edge 2007-08,172888,Edge/MKX 2007-10 前右 FWD,否,无,,Monroe 标 FWD
+1331730L,后左,Chevrolet Lumina 1997-2001；Monte Carlo 1997-99,171663L（Lumina 1997-99）/ 271663L（Lumina 2000-01、Monte Carlo 1997-99）,见左,是,无,,Monroe 拆成两个号
+1331730R,后右,Chevrolet Lumina 1997-2001；Monte Carlo 1997-99,171663R（Lumina 1997-99）/ 271663R（Lumina 2000-01、Monte Carlo 1997-99）,见左,是,无,,Monroe 拆成两个号
+1331751L,前左；旅行车,Subaru Impreza 2004-07,172440,Impreza 2004-07 前左,是,无,,
+1331761L,前左；轿车自动挡,Subaru Legacy 1998-99,无,,否,无,,
+1331761R,前右；轿车自动挡,Subaru Legacy 1998-99,无,,否,无,,
+1331789L,前左,Dodge Caliber 2007-12；Jeep Compass 2007-10；Patriot 2007-10,172368（Caliber）/ 272368（Compass、Patriot）/ 372368、572368（4WD 2007-08）,见左,是,SR4217,Caliber 前左,Monroe 拆成四个号
+1331789R,前右,Dodge Caliber 2007-12；Jeep Compass 2007-10；Patriot 2007-10,172367（Caliber）/ 272367（Compass、Patriot）/ 372367、572367（4WD 2007-08）,见左,是,SR4216,Caliber 前右,Monroe 拆成四个号
+1331845L,后左；X款 不含自调平,Subaru Forester 2006-08,无,,否,无,,第三方资料有旧号 172446，Monroe 现行目录查不到
+1331845R,后右；X款 不含自调平,Subaru Forester 2006-08,无,,否,无,,第三方资料有旧号 172445，Monroe 现行目录查不到
+1332350L,前左；V6,Nissan Altima 2002-06；Maxima 2004-08,371427,Altima 2002-06 3.5L 前左,否,SR4164,Altima；Maxima 2004-08 前左,复核后 371427 已在 Monroe 官网确认；Monroe 不含 Maxima
+1332350R,前右；V6,Nissan Altima 2002-06；Maxima 2004-08,371426,Altima 2002-06 3.5L 前右,否,SR4163,Altima；Maxima 2004-08 前右,Monroe 不含 Maxima
+1332355L,前左,Nissan Sentra 2002-06,172108 / 172106,两个号官网都是 Sentra 2002-06 前左,是（172108）,SR4157,Sentra 2002-06 前左,RockAuto 在 1.8L 下列的是 172106；发动机区分 Monroe 官网不显示
+1332355R,前右,Nissan Sentra 2002-06,172107 / 172105,两个号官网都是 Sentra 2002-06 前右,是（172107）,SR4156,Sentra 2002-06 前右,RockAuto 在 1.8L 下列的是 172105；发动机区分 Monroe 官网不显示
+1333354R,后右；非警用/出租车,Chevrolet Impala 2004-13；Impala Limited 2014-16,372471R / 272471R,372471R：Impala 2004-13、Impala Limited 2014-16、Grand Prix 2004-07；272471R：Impala 2006-11、LaCrosse/Allure 2005-08,是,SR4103,Impala 2004-13；Impala Limited 2014-16 后右,372471R 的年份覆盖更完整；复核后补充 KYB
+1333356L,前左,Ford Fiesta 2011-19,172525（2011-13）/ 172786（2014-16）,Fiesta 前左,是,无,,Monroe 不含 2017-19
+1333356R,前右,Ford Fiesta 2011-19,172524（2011-13）/ 172785（2014-16）,Fiesta 前右,是,无,,Monroe 不含 2017-19
+1333438L,前左；自动/CVT,Subaru Legacy 2010-12,272685,Legacy 2010-12 前左,否,SR4717,Legacy 2010-12 前左,
+1333439L,前左；自动/CVT,Subaru Outback 2010-12,272687,Outback 2010-12 前左,是,SR4385,Outback 2010-12 前左,
+1333439R,前右；自动/CVT,Subaru Outback 2010-12,272686,Outback 2010-12 前右,是,SR4384,Outback 2010-12 前右,
+1333447L,前左,Kia Sorento 2011-13,173044,Sorento 2011-13 前（左右通用）,是,SR4678,Sorento 2011-13 前左,Monroe 一个号左右通用
+1333447R,前右,Kia Sorento 2011-13,173044,Sorento 2011-13 前（左右通用）,是,SR4677,Sorento 2011-13 前右,Monroe 一个号左右通用
+1333448L,后左；AWD,Lexus RX350 2008-09,173417,RX350 2008-09 后左 FWD,是,无,,注意：FCS 是 AWD 款，Monroe 官网标 FWD
+1333448R,后右；AWD,Lexus RX350 2008-09,173416,RX350 2008-09 后右 FWD,是,无,,注意：FCS 是 AWD 款，Monroe 官网标 FWD
+1333450L,前左；FWD,Ford Explorer 2011-12,172621,Explorer 2011-13 前左 FWD,是,SR4656,Explorer FWD 2011-12 前左,
+1333450R,前右；FWD,Ford Explorer 2011-12,172620,Explorer 2011-13 前右 FWD,是,SR4655,Explorer FWD 2011-12 前右,
+1333452L,前左,Hyundai Tucson 2010-15；Kia Sportage 2011-16,172723,Tucson 2010-15；Sportage 2011-16 前左,是,SR4632,Tucson 2010-15；Sportage 2011-16 前左,
+1333452R,前右,Hyundai Tucson 2010-15；Kia Sportage 2011-16,172722,Tucson 2010-15；Sportage 2011-16 前右,是,SR4631,Tucson 2010-15；Sportage 2011-16 前右,
+1333477L,前左,Ford Flex 2010-12,272534,Flex 2010-11 前左,否,SR4660,Flex/MKT 2010-11 前左,注意：Monroe 互换表给的是 172708（实为 Hyundai Elantra 前右），是错的
+1333477R,前右,Ford Flex 2010-12,272535,Flex 2010-11 前右,否,SR4659,Flex/MKT 2010-11 前右,
+1333532L,前左,Hyundai Santa Fe 2013-18；Santa Fe Sport 2013-18；Kia Sorento 2014-15,273043 / 173043,273043：Santa Fe Sport 2.4L、Sorento 2.4L；173043：Santa Fe 3.3L 2013-18、Santa Fe Sport 2.0L 2013-18、Sorento 3.3L 2014-15 前左,否,无,,Monroe 按发动机拆成两个号；复核后补充 173043
+1333532R,前右,Hyundai Santa Fe 2013-18；Santa Fe Sport 2013-18；Kia Sorento 2014-15,273042 / 173042,273042：Santa Fe Sport 2.4L、Sorento 2.4L；173042：Santa Fe 3.3L、Santa Fe Sport 2.0L、Sorento 3.3L 前右,否,无,,Monroe 按发动机拆成两个号
+1333534L,前左；Coupe,Honda Civic 2012-15,272928（RockAuto 标 Coupe）/ 272926（互换表）,272928：Civic 2012-15 1.8L；272926：Civic 2013-15 前左,是（272926）,无,,Monroe 互换表把 FCS 轿车款 1333454L 也指向 272926，所以 272926 应是轿车款、Coupe 优先用 272928；KYB SR4268 官网标 Sedan
+1333534R,前右；Coupe,Honda Civic 2012-15,272927（RockAuto 标 Coupe）/ 272925（互换表）,272927：Civic 2012-15 1.8L；272925：Civic 2013-15 前右,是（272925）,无,,272925 应是轿车款、Coupe 优先用 272927；KYB SR4267 官网标 Sedan
+1333584L,前左,Nissan Versa 2012-19；Versa Note 2014-19,171060,Versa 2012-19；Versa Note 2014-19 前左,是,SR4573,Versa 2012-19；Versa Note 2014-19 前左,
+1333584R,前右,Nissan Versa 2012-19；Versa Note 2014-19,171059,Versa 2012-19；Versa Note 2014-19 前右,是,SR4572,Versa 2012-19；Versa Note 2014-19 前右,
+1334107R,前右；xDrive 不含电子减震,BMW X3 2018-24；X4 2019-25,无,,否,无,,
+1334565L,前左,Ford Police Interceptor Utility 2020-25,无,,否,无,,
+1334565R,前右,Ford Police Interceptor Utility 2020-25,无,,否,无,,
+1337027L,前左；AWD Coupe,Infiniti G37 2009-13；Q60 2014-15,173281,G37 2009-13；Q60 2014-15 前左,是,无,,KYB SR4810 是 RWD 款，不对应
+1337027R,前右；AWD Coupe,Infiniti G37 2009-13；Q60 2014-15,173280,G37 2009-13；Q60 2014-15 前右,是,无,,KYB SR4809 是 RWD 款，不对应
+1337236L,前左；Comfort 悬挂,Mercedes GLA250 2021-24,无,,否,无,,
+1337236R,前右；Comfort 悬挂,Mercedes GLA250 2021-24,无,,否,无,,
+1345459L,后左,Hyundai Sonata 2000-05；XG300 2001；XG350 2002-05；Kia Magentis/Optima 2001-06,171326L（XG300、XG350）/ 271326L（Sonata、Optima）,见左,是（171326L）,无,,Monroe 拆成两个号
+1345459R,后右,Hyundai Sonata 2000-05；XG300 2001；XG350 2002-05；Kia Magentis/Optima 2001-06,171326R（XG300、XG350）/ 271326R（Sonata、Optima）,见左,是（171326R）,无,,Monroe 拆成两个号
+1345709L,前左；FE1 悬挂,Cadillac CTS 2003-07,171390L,CTS 2003-07 前左,否,无,,
+1345709R,前右；FE1 悬挂,Cadillac CTS 2003-07,171390R,CTS 2003-07 前右,否,无,,
+1345798L,前左；RWD 标准驾驶室,Ford F-150 2014,172651L,F-150 2014 前左 RWD 3.7L,否,SR4456,F-150 RWD 2014 前（左右通用）；Expedition/Navigator 2014-17,KYB 不分驾驶室
+1345798R,前右；RWD 标准驾驶室,Ford F-150 2014,172651R,F-150 2014 前右 RWD 3.7L,否,SR4456,F-150 RWD 2014 前（左右通用）；Expedition/Navigator 2014-17,KYB 不分驾驶室
+1345849L,前左；4WD,Toyota Sequoia 2008-22,271137L,Sequoia 2008-22 前左 4WD,是,SR4590,Sequoia 2008-21 前左,KYB 不分驱动形式
+1345849R,前右；4WD,Toyota Sequoia 2008-22,271137R,Sequoia 2008-22 前右 4WD,是,SR4589,Sequoia 2008-21 前右,KYB 不分驱动形式
+1345906L,前左,Dodge Durango 2016-25；Jeep Grand Cherokee 2016-21、WK 2022,173078 / 273078 / 373078 / 153050,173078：AWD 3.6L、RWD 5.7L；273078：RWD 3.6L；373078：AWD 5.7L,是,SR4798,Grand Cherokee 2016-21 前左,Monroe 按驱动和发动机拆分；RockAuto 上 FCS 的驱动标注在 3.6L 和 5.7L 下不一致
+1345906R,前右,Dodge Durango 2016-25；Jeep Grand Cherokee 2016-21、WK 2022,173077 / 273077 / 373077,173077：AWD 3.6L、RWD 5.7L；273077：RWD 3.6L；373077：AWD 5.7L,是,SR4797,Grand Cherokee 2016-21 前右,同上
+1355065L,前左,Dodge Durango 2016-26；Jeep Grand Cherokee 2016-21,373078,Durango 2016-25、Grand Cherokee 2016-21 AWD 5.7L；Grand Cherokee 3.0L 2016-19 前左,是,无,,
+1355065R,前右,Dodge Durango 2016-26；Jeep Grand Cherokee 2016-21,373077,Durango 2016-25、Grand Cherokee 2016-21 AWD 5.7L；Grand Cherokee 3.0L 2016-19 前右,是,无,,
+2331604L,前左；FWD,Toyota RAV4 2000-05,571454,RAV4 2001-03 前左 FWD,是,SR4153,RAV4 FWD 2001-05 前左,Monroe 只到 2003
+2331604R,前右；FWD,Toyota RAV4 2000-05,571453,RAV4 2001-03 前右 FWD,是,SR4152,RAV4 FWD 2001-05 前右,Monroe 只到 2003
+2331613L,后左；FWD,Toyota Highlander 2004-07,172214 / 272214（互换表）,172214：Highlander 2004-07、RX330 2004-06、RX350 2007 后左 FWD；272214：Highlander 3.3L 2006-07、RX400h 2006-07,是（272214）,无,,172214 的年份覆盖更完整
+2331613R,后右；FWD,Toyota Highlander 2004-07,172213 / 272213（互换表）,172213：Highlander 2004-07、RX330 2004-06、RX350 2007 后右 FWD；272213：Highlander 3.3L 2006-07、RX400h 2006-07,是（272213）,无,,172213 的年份覆盖更完整
+2333354L,后左；17/18寸轮,Chevrolet Monte Carlo 2004-07；Pontiac Grand Prix 2008,272471L,Impala 2006-11；LaCrosse/Allure 2005-08 后左,是,无,,注意：Monroe 该号的官网车型不含 Monte Carlo 和 Grand Prix；第三方资料有旧号 172471L，Monroe 现行目录查不到
+2333354R,后右；17/18寸轮,Chevrolet Monte Carlo 2004-07；Pontiac Grand Prix 2008,272471R,Impala 2006-11；LaCrosse/Allure 2005-08 后右,是,无,,注意：Monroe 该号的官网车型不含 Monte Carlo 和 Grand Prix；第三方资料有旧号 172471R，Monroe 现行目录查不到
+2333378L,后左；FWD,Lexus RX350 2008-09,173417,RX350 2008-09 后左 FWD,是,无,,
+2333414R,前右；LS款 早期VIN 非运动悬挂,Buick Verano 2012；Chevrolet Cruze 2011-12,272626,Cruze 2011-12 前右,是,SR4317,Cruze 2011-16 前右,Monroe 不含 Verano
+2333508L,前左；4WD,Jeep Patriot 2011-17,272951,Patriot 2011-17 前左 4WD,否,SR4508,Patriot 4WD 2011-17；Compass 前左,注意：Monroe 互换表给的是 172951（官网标 FWD）
+2333508R,前右；4WD,Jeep Patriot 2011-17,272950,Patriot 2011-17 前右 4WD,否,SR4507,Patriot 4WD 2011-17；Compass 4WD 2011 前右,注意：Monroe 互换表给的是 172950（官网标 FWD）
+2333532L,前左；2.4L,Kia Sorento 2014-15,273043,Sorento 2.4L 2014-15；Santa Fe Sport 2.4L 2013-17 前左,否,无,,
+2333532R,前右；2.4L,Kia Sorento 2014-15,273042,Sorento 2.4L 2014-15；Santa Fe Sport 2.4L 2013-17 前右,否,无,,
+2333957L,前左,Kia Sportage 2017-22,173197,Sportage 2017-19；Tucson 2016-18 前左,是,无,,Monroe 只到 2019
+2333957R,前右,Kia Sportage 2017-22,173196,Sportage 2017-19；Tucson 2016-18 前右,是,无,,Monroe 只到 2019
+2334069L,前左,Kia Optima 2016-20；Hyundai Sonata 2015-19,183073,Sonata 2015-19；Optima 2016-20 前左,否,无,,
+2334069R,前右,Kia Optima 2016-20；Hyundai Sonata 2015-19,183072,Sonata 2015-19；Optima 2016-20 前右,否,无,,
+2336311L,前左,Mazda 5 2006-10、2012-17,272264（2006-10）/ 172946（2012-15）,Mazda 5 前左,是,SR4599,Mazda 5 前左,注意：互换表还列了 172264（实为 Mazda 3 2004-13）
+2336311R,前右,Mazda 5 2006-10、2012-17,272263（2006-10）/ 172945（2012-15）,Mazda 5 前右,是,SR4598,Mazda 5 前右,注意：互换表还列了 172263（实为 Mazda 3 2004-13）
+3333415L,前左,Buick Verano 2013-16；Chevrolet Cruze 2014-15；Volt 2012-15,472664 / 572627,472664：Verano 2.0L 2013-16、Cruze 2.0L 2014-15；572627：Volt 2011-12 前左,是,无,,Monroe 拆成两个号
+3333415R,前右,Buick Verano 2013-16；Chevrolet Cruze 2014-15；Volt 2012-15,472663 / 572626,472663：Verano 2.0L 2013-16、Cruze 2.0L 2014-15；572626：Volt 2011-12 前右,是,无,,Monroe 拆成两个号
+3335779R,前右,Ford Focus 2008-11,272257,Focus 2008-11 前右,是,SR4235,Focus 2008-11 前右,
+3335877R,前右；Hybrid,Ford C-Max 2013-18,372522 / 172774（互换表）,372522：C-Max 2013-18；172774：C-Max 2013-17 前右,是（172774）,无,,RockAuto 把 172774 标为 Energi 款、372522 标为 Hybrid 款；Monroe 官网两个号都不分
+5333406R,前右；轿车,Chrysler 200 2011-14；Sebring 2009-10；Dodge Avenger 2008-14,171130（2.4L）/ 271130（V6）,171130：Sebring 2007-10、Avenger 2008-14 2.4L；271130：200 2011-14、Sebring V6、Avenger V6 前右,是,SR4555,200 轿车 2011-14；Sebring 轿车 2007-10；Avenger 2008-14 前右,互换表还列了 172332（敞篷款）
